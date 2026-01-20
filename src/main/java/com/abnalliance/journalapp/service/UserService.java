@@ -2,7 +2,6 @@ package com.abnalliance.journalapp.service;
 
 import com.abnalliance.journalapp.entity.Users;
 import com.abnalliance.journalapp.repository.UserRepository;
-import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
